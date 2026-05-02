@@ -1,9 +1,0 @@
-img {
-    width: 40px;
-    margin: 2px;
-    cursor: pointer;
-}
-
-#hand img {
-    border: 2px solid black;
-}
